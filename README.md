@@ -34,7 +34,7 @@ Os áudios foram separados por cenas, missões, diálogos durante o jogo, treina
 | 🔴 Em andamento | Cutscene 19 - Air Force One Outro                |
 | 🔴 Em andamento | Cutscene 20 - Crash Site Intro                   |
 | 🔴 Em andamento | Cutscene 21 - Crash Site Outro                   |
-| 🔴 Em andamento | Cutscene 22 - Pelagic II Intro                   |
+| 🟢 Concluído    | Cutscene 22 - Pelagic II Intro                   |
 | 🔴 Em andamento | Cutscene 23 - Pelagic II Outro                   |
 | 🔴 Em andamento | Cutscene 24 - Deep Sea Intro                     |
 | 🔴 Em andamento | Cutscene 25 - Deep Sea Outro                     |
