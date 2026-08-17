@@ -18,7 +18,7 @@ Os áudios foram separados por cenas, missões, diálogos durante o jogo, treina
 | 🔴 Em andamento | Cutscene 03 - dataDyne Extraction Outro          |
 | 🟢 Concluído    | Cutscene 04 - dataDyne Investigation Intro       |
 | 🟢 Concluído    | Cutscene 05 - dataDyne Investigation Outro       |
-| 🔴 Em andamento | Cutscene 06 - Carrington Villa Intro             |
+| 🟢 Em andamento | Cutscene 06 - Carrington Villa Intro             |
 | 🔴 Em andamento | Cutscene 07 - Carrington Villa Outro             |
 | 🔴 Em andamento | Cutscene 08 - Chicago Stealth Intro              |
 | 🟢 Concluído    | Cutscene 09 - Chicago Stealth Outro              |
