@@ -25,7 +25,7 @@ Os áudios foram separados por cenas, missões, diálogos durante o jogo, treina
 | 🔴 Em andamento | Cutscene 10 - G5 Building Outro                  |
 | 🔴 Em andamento | Cutscene 11 - Area 51 Infiltration Intro         |
 | 🔴 Em andamento | Cutscene 12 - Area 51 Infiltration Outro         |
-| 🔴 Em andamento | Cutscene 13 - Area 51 Rescue Intro               |
+| 🟢 Concluído    | Cutscene 13 - Area 51 Rescue Intro               |
 | 🔴 Em andamento | Cutscene 14 - Area 51 Rescue Outro               |
 | 🔴 Em andamento | Cutscene 15 - Area 51 Escape Outro               |
 | 🔴 Em andamento | Cutscene 16 - Air Base Espionage Intro           |
